@@ -1,0 +1,78 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #f0f3f5;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.carousel {
+    width: 70%;
+    height: auto;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.naslov {
+    height: 70px;
+    background-color: #d2e2fc;
+}
+
+.footer {
+    text-align: center;
+}
+
+#slika img {
+    height: 100%;
+    width: 80%;
+}
+
+#slika {
+    margin-top: 50px;
+    margin-left: 230px;
+}
+
+#pitanja {
+    float: right;
+    width: 40%;
+    height: 600px;
+    margin-top: 80px;
+    margin-right: 80px;
+}
+
+.search {
+    padding-left: 800px;
+}
+
+#kontakt {
+    width: 70%;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#kontakt2 {
+    margin-left: 50px;
+    width: 40%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#downloads {
+    text-align: center!important;
+}
+
+.dl-buttons {
+    text-align: center!important;
+}
+
+.windows a {
+    width: 190px;
+    height: 190px;
+    display: inline-block;
+}
+
+#termin {
+    margin-left: 30px;
+}
